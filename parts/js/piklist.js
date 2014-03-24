@@ -753,6 +753,11 @@
                   {
                     $(this).removeAttr('value');
                   }
+                  
+                  if ($(this).is('textarea'))
+                  {
+                    $(this).empty();
+                  }
                 });
                 
                 if (!$(this).prev().is(excludes))
