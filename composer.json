@@ -1,0 +1,13 @@
+{
+    "name": "neuralquery/piklist",
+    "description": "Custom version of Piklist with additional bugixes.",
+    "keywords": ["WordPress", "Piklist"],
+    "homepage": "https://github.com/neuralquery/piklist",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Daniel Rampanelli",
+            "email": "hello@neuralquery.com"
+        }
+    ]
+}
